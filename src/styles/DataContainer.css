@@ -1,0 +1,10 @@
+/* Data Container Component Styles */
+.data-container {
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .data-container {
+    padding: 0;
+  }
+}
